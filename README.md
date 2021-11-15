@@ -1,4 +1,4 @@
-# Computer-Price-Prediction
+# Computer-Price-Prediction using Python
 
 What should be the apt price for a computer?
 
